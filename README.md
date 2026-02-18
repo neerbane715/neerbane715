@@ -44,18 +44,18 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerbane715&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerbane715&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=neerbane715&show_icons=true&theme=radical&cache_seconds=1800" height="165" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerbane715&layout=compact&theme=radical&cache_seconds=1800" height="165" />
+</p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerbane715&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=neerbane715&theme=radical" />
 </p>
