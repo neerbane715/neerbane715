@@ -24,14 +24,8 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/nirban-das-3b84a628b/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://twitter.com/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
-<a href="https://instagram.com/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
 
