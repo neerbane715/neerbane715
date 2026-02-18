@@ -27,6 +27,9 @@
 <a href="https://www.linkedin.com/in/nirban-das-3b84a628b/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
+<img src="https://skillicons.dev/icons?i=gmail" height="25" />
+<a href="mailto:nirban715.das@gmail.com"><strong>nirban715.das@gmail.com</strong>
+</a>
 </p>
 
 ---
