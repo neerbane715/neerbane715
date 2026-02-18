@@ -59,25 +59,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerbane715&theme=radical" />
 </p>
-
----
-
-## 📈 Activity Graph (Animated)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neerbane715&theme=react-dark"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/neerbane715/neerbane715/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> I convert ☕ Coffee into scalable AI-powered systems 🚀
