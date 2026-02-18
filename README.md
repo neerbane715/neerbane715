@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Nirban Das
+</h1>
 
-<!--
-**neerbane715/neerbane715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+Enthusiast;Web3+Learner;Building+Impactful+Projects" />
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neerbane715&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student  
+- 🤖 Building AI Systems  
+- 🌐 Full Stack Developer  
+- 🔥 Passionate about Automation & Innovation  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://twitter.com/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+<a href="https://instagram.com/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,nodejs,express,mongodb,mysql,flask,django,tensorflow,opencv,git,linux,docker,html,css,tailwind,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neerbane715&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerbane715&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerbane715&theme=radical" />
+</p>
+
+---
+
+## 📈 Activity Graph (Animated)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neerbane715&theme=react-dark"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neerbane715/neerbane715/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I convert ☕ Coffee into scalable AI-powered systems 🚀
